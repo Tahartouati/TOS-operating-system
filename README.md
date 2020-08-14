@@ -1,5 +1,5 @@
 # TOS-operating-system
- TOS is a simple operating system for Intel x86 based PCs, designed as a programming project to accompany a course on operating systems.Thus project gave me the opportunity to implemente a small, pre-emptive multi-tasking operating system that can boot on any Intel-based PC. It controls an external model train via the serial line interface.
+ TOS is a simple operating system for Intel x86 based PCs, designed as a programming project to accompany a course on operating systems.This project gave me the opportunity to implement a small, preemptive multitasking operating system that can boot on any Intel-based PC. It controls an external model train via the serial line interface.
 
 <h1>Getting Started with TOS</h1>
 
